@@ -4,13 +4,13 @@
 - 🌱 Estou estudando JavaScript, Html5 e CSS3
 
   <a href="https://github.com/GustavoAP1"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoAP1&theme=gotham&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAP1&theme=gotham&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAP1&theme=gotham&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAP1&theme=gotham&show_icons=true&hide_border=false&layout=compact"/>
 
   <div display="inline-block">
-      <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
  </div>
  
  ##
